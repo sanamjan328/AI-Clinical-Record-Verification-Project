@@ -1,4 +1,4 @@
-# GNOSIS Verification Pipeline (simulation + reference implementation)
+# Verification Pipeline (simulation + reference implementation)
 
 End-to-end simulation of a clinical AI verification service, matching the GNOSIS
 AI Platform & Integration Engineer scope:
